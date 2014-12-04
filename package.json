@@ -1,6 +1,6 @@
 {
   "name": "npm-homes",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Command-line utility to open up the homepages of a project's dependencies",
   "author": "Ben Truyman <ben@truyman.com>",
   "license": "Unlicense",
