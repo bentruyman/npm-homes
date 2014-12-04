@@ -1,19 +1,21 @@
 {
   "name": "npm-homes",
   "version": "0.1.0",
-  "description": "Simple utility to open up the homepages of a project's dependencies",
-  "author": "Ben Truyman <bentruyman@gmail.com>",
+  "description": "Command-line utility to open up the homepages of a project's dependencies",
+  "author": "Ben Truyman <ben@truyman.com>",
   "license": "Unlicense",
   "bin": "cli.js",
+  "homepage": "https://github.com/bentruyman/npm-homes",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bentruyman/npm-homes"
+    "url": "git://github.com/bentruyman/npm-homes.git"
   },
   "keywords": [
     "cli",
     "npm"
   ],
   "dependencies": {
-    "optimist": "~0.3.7"
+    "minimist": "^1.1.0",
+    "npm": "^2.1.10"
   }
 }
